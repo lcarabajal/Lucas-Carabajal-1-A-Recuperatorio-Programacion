@@ -15,5 +15,3 @@ def reemplazarCaracteres(cadena:str,target:str,reemplazo:str)->str:
     cadena = "".join(lista_caracteres)
 
     print(f"La cadena que paso se transformo en: {cadena}, y tuvo {contador} coincidencias ")
-        
-reemplazarCaracteres("Hola Mundo","o","i")

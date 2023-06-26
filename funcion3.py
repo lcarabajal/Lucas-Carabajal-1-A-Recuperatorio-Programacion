@@ -16,7 +16,3 @@ def ordenarCaracteres(cadena:str) -> str:
     
     cadena = "".join(lista_cadena)
     print(cadena)            
-    
-    
-
-ordenarCaracteres("algoritmo")

@@ -10,6 +10,3 @@ def aplicarAumento(precioProducto:float)->float:
     
     return precioAumentado
     
-    
-
-print(aplicarAumento(20))
